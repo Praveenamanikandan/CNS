@@ -83,7 +83,6 @@ OUTPUT :-
 
 
 
-
-##Result:
+RESULT:
 The Program is Executed Successfully
 
